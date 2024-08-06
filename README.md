@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Kelbia Cristina!
 ## Sobre Mim
 
-Portfolio: https://portfoliokel2024.netlify.app/
 
 🌱 
 Sou uma estudante de programação no início da minha jornada, com um forte desejo de aprender e crescer na área de desenvolvimento de software. Atualmente, estou explorando as bases da programação e me dedicando ao aprendizado de várias tecnologias e linguagens.
