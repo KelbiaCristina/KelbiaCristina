@@ -3,7 +3,7 @@
 
 
 🌱 
-Sou uma estudante de programação no início da minha jornada, com um forte desejo de aprender e crescer na área de desenvolvimento de software. Atualmente, estou explorando as bases da programação e me dedicando ao aprendizado de várias tecnologias e linguagens.
+Sou uma estudante de programação , com  forte desejo de aprender e crescer na área de desenvolvimento de software. Atualmente, estou explorando as bases da programação e me dedicando ao aprendizado de várias tecnologias e linguagens.
 
 
 ## 📫 Contato
