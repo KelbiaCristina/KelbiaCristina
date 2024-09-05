@@ -5,6 +5,10 @@
 🌱 
 Sou uma estudante de programação , com  forte desejo de aprender e crescer na área de desenvolvimento de software. Atualmente, estou explorando as bases da programação e me dedicando ao aprendizado de várias tecnologias e linguagens.
 
+# 💻 Meu Portfólio
+
+Acesse meu portfólio clicando [aqui](https://portfolio-novo-2024.netlify.app/)
+
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kelbia-cristina-1942b3282/)
